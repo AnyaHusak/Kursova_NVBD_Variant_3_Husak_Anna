@@ -1,0 +1,1 @@
+# Kursova_NVBD_Variant_3_Husak_Anna
