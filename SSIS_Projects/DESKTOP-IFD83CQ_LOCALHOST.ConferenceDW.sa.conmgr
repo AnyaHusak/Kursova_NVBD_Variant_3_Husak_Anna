@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-IFD83CQ_LOCALHOST.ConferenceDW.sa"
+  DTS:DTSID="{62044C77-B60A-4707-BE11-66504368A453}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-IFD83CQ\LOCALHOST;User ID=sa;Initial Catalog=ConferenceDW;Provider=SQLOLEDB.1;Persist Security Info=True;Application Name=SSIS-ConferenceETL-{62044C77-B60A-4707-BE11-66504368A453}DESKTOP-IFD83CQ\LOCALHOST.ConferenceDW.sa;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAABQdK+dWjPEye3WFLDACawQAAAAACAAAAAAAQZgAAAAEAACAAAAAbKM4btSycvuE9ECxz+deDyRPQhgpdu0O4FqeZ10q4VwAAAAAOgAAAAAIAACAAAACQ4pQoUFPAttfq+g79NAEQjYEUgTPDnlUOw7fCg3Agd3AAAAA/sTzAsVUkURkY0NrtZmlStdFiFXpPEUNgL8EvJbGkBVOl5EIwZ2IwAMx/D2fS1ENuGjEws70A3wwjyi2m+W0jPlEPFaGQL8fC4bdz9pjcw2S+hei550/EjAA2eEGKIo4LABz6rOldZjcbljSFzgSMQAAAAMsMeotRYAHvuUBJAfLbqss5svLdChS7uICUC57hV90pz+E3NLpm0rNs27R02DqYpJEms8qbOWW0XW2uCT0Y1wI=</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
